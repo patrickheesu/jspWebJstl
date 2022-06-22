@@ -1,5 +1,4 @@
-<%@page import="job.dao.JobkoreaDao"%>
-<%@page import="job.vo.Jobkorea"%>
+
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%
